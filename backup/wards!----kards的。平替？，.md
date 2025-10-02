@@ -12,7 +12,7 @@ kards总共有三大私服
 如果没发，估计是你网络不好使，或者服务器现在正被傻逼ddos
 请等一会。
 TG频道:https://t.me/wardsclub
-下载地址(推荐中国用户使用):https://www.123912.com/s/IOmQjv-jZsiH 提取码：mad4
+下载地址(推荐中国用户使用):https://www.123912.com/s/IOmQjv-0hWiH?pwd=YLdn# 提取码:YLdn
 # English:
 Kards has three major private servers.
 For details, see this episode - https://b23.tv/CQzBPVu
@@ -26,4 +26,5 @@ Error Messages:
 If you receive an error message when logging in, check the tg group; it might be due to an update or maintenance issue.
 If no message is sent, it's likely your network is down, or the server is being attacked by a DDoS attack.
 Please wait a moment. TG Channel: https://t.me/wardsclub
-Download (recommended for users in China): https://www.123912.com/s/IOmQjv-jZsiH Extraction Code: mad4
+Download (recommended for users in China): https://www.123912.com/s/IOmQjv-0hWiH?pwd=YLdn#
+Extraction Code: YLdn
